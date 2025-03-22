@@ -1,0 +1,25 @@
+2025-03-22 12:03:51,752 - INFO - Application started.
+2025-03-22 12:03:51,755 - ERROR - Division by zero occurred.
+2025-03-22 12:03:51,755 - INFO - Application finished.
+2025-03-22 12:13:26,853 - INFO - Application started.
+2025-03-22 12:13:26,853 - INFO - Application started.
+2025-03-22 12:13:26,855 - INFO - Application finished.
+2025-03-22 12:13:26,855 - INFO - Application finished.
+2025-03-22 12:15:55,451 - ERROR - File not found: nonexistent_file.txt
+2025-03-22 12:15:55,451 - ERROR - File not found: nonexistent_file.txt
+2025-03-22 12:19:26,940 - ERROR - File not found: nonexistent_file.txt
+2025-03-22 12:19:26,940 - ERROR - File not found: nonexistent_file.txt
+2025-03-22 12:24:45,129 - ERROR - Division by zero occurred.
+2025-03-22 12:24:45,129 - ERROR - Division by zero occurred.
+2025-03-22 12:24:47,673 - INFO - This is an informational message.
+2025-03-22 12:24:47,673 - INFO - This is an informational message.
+2025-03-22 12:24:47,673 - WARNING - This is a warning message.
+2025-03-22 12:24:47,673 - WARNING - This is a warning message.
+2025-03-22 12:24:47,674 - ERROR - This is an error message.
+2025-03-22 12:24:47,674 - ERROR - This is an error message.
+2025-03-22 12:25:03,589 - INFO - Application started.
+2025-03-22 12:25:03,589 - INFO - Application started.
+2025-03-22 12:25:03,589 - ERROR - Division by zero occurred.
+2025-03-22 12:25:03,589 - ERROR - Division by zero occurred.
+2025-03-22 12:25:03,590 - INFO - Application finished.
+2025-03-22 12:25:03,590 - INFO - Application finished.

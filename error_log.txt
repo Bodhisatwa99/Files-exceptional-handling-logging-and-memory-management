@@ -1,0 +1,5 @@
+ERROR:root:Division by zero occurred.
+ERROR:root:Division by zero occurred.
+ERROR:root:This is an error message.
+ERROR:root:Division by zero occurred.
+ERROR:root:This is an error message.
